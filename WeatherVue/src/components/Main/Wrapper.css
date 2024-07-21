@@ -1,0 +1,20 @@
+.navbarr{
+    height: 60px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');.navbarr h1{
+    font-size: 50px;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 3rem; /* Adjust size as needed */
+  font-weight: bold; /* Optional, for more impact */
+  background: linear-gradient(45deg, rgb(18, 18, 18), #1e00ff); /* Define your gradient colors */
+  -webkit-background-clip: text; /* Clip the background to the text */
+  -webkit-text-fill-color: transparent; /* Make the text color transparent so the gradient shows */
+  background-clip: text; /* For non-webkit browsers */
+
+}
